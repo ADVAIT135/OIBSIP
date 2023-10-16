@@ -1,0 +1,12 @@
+Iris Dataset Classification
+Features : PetalLengthCm, PetalWidthCm, SepalLengthCm and SepalWidthCm
+Target : Species -> Iris-setosa, Iris-versicolor, Iris-virginica
+Machine Learning Models Used : Decision Tree Model, Linear Regression Model, Linear Sub-Vector Machine Model and Random Forest Classifier Model
+Analysis: Each Species has a count of 50 each i.e. iris dataset consists 50 rows of Iris-setosa, 50 rows of Iris-Versicolor and 50 rows of Iris-Virginica
+Prime Findings : Flowers having Petal Lenght < 2.45 cm; belong to Setosa Species
+                 Flowers having Petal Length < 5 cm and Petal Length > 3 cm; most of them belong to Versicolor Species
+                 Flowers having Petal Length > 5 cm; belong to Virginica Species
+Performance by each Model : Accuracy_score of Decision Tree Model -> 0.98
+                            Accuracy_score of Linear Regression Model -> 0.98
+                            Accuracy_score of Linear SVC Model -> 0.98
+                            Accuracy_score of Random Forest Classifier Model -> 0.93
