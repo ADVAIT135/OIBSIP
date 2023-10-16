@@ -33,3 +33,14 @@
 ## <p style="color: red;">Flowers having Petal Length < 2.45 cm; belong to Setosa Species</p>
 ## <p style="color: red;">Flowers having Petal Length < 5 cm and Petal Length > 3 cm; most of them belong to Versicolor Species</p>
 ## <p style="color: red;">Flowers having Petal Length > 5 cm; belong to Virginica Species</p>
+
+
+## Predictions made:-
+## Iris Setosa 
+![Predicted Iris-setosa dataset](https://github.com/ADVAIT135/OIBSIP/blob/6901b826242502d992743a7c9883db2de6579331/Task%201%3A%20Iris%20Dataset%20Classification/iris_setosa_dataset.csv)
+
+## Iris Versicolor
+![Predicted Iris-versicolor](https://github.com/ADVAIT135/OIBSIP/blob/6901b826242502d992743a7c9883db2de6579331/Task%201%3A%20Iris%20Dataset%20Classification/iris_versicolor_dataset.csv)
+
+## Iris Virginica
+![Predicted Iris-virginica](https://github.com/ADVAIT135/OIBSIP/blob/6901b826242502d992743a7c9883db2de6579331/Task%201%3A%20Iris%20Dataset%20Classification/iris_virginica_dataset.csv)
