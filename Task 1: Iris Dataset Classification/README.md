@@ -5,8 +5,52 @@
 
 
 ### Analysis: Each Species has a count of 50 each i.e. iris dataset consists 50 rows of Iris-setosa, 50 rows of Iris-Versicolor and 50 rows of Iris-Virginica
+![Pieplot of Features](https://github.com/ADVAIT135/OIBSIP/blob/68d7e3b42fe1ed1d2ba4b518c8070daf5cd071ca/Task%201%3A%20Iris%20Dataset%20Classification/piechart.png)
+
+### Box Plots for determining Outliers:-
+#### 1. PetalLengthCm
+![Outliers in PetalLengthCm if any](https://github.com/ADVAIT135/OIBSIP/blob/68d7e3b42fe1ed1d2ba4b518c8070daf5cd071ca/Task%201%3A%20Iris%20Dataset%20Classification/boxplot_for_outliers.png)
+#### 2. PetalWidthCm
+![Outliers in PetalWidthCm if any](https://github.com/ADVAIT135/OIBSIP/blob/68d7e3b42fe1ed1d2ba4b518c8070daf5cd071ca/Task%201%3A%20Iris%20Dataset%20Classification/boxplot_for_outliers_2.png)
+#### 3. SepalLengthCm
+![Outliers in SepalLengthCm if any](https://github.com/ADVAIT135/OIBSIP/blob/68d7e3b42fe1ed1d2ba4b518c8070daf5cd071ca/Task%201%3A%20Iris%20Dataset%20Classification/boxplot_for_outliers_3.png)
+#### 4. SepalWidthCm
+![Outliers in SepalWidthCm if any](https://github.com/ADVAIT135/OIBSIP/blob/68d7e3b42fe1ed1d2ba4b518c8070daf5cd071ca/Task%201%3A%20Iris%20Dataset%20Classification/boxplot_for_outliers_4.png)
+
+### Density Plots:-
+#### 1. PetalLengthCm
+![Density Plot of PetalLengthCm](https://github.com/ADVAIT135/OIBSIP/blob/68d7e3b42fe1ed1d2ba4b518c8070daf5cd071ca/Task%201%3A%20Iris%20Dataset%20Classification/Density_plot_1.png)
+#### 2. PetalWidthCm
+![Density Plot of PetalWidthCm](https://github.com/ADVAIT135/OIBSIP/blob/68d7e3b42fe1ed1d2ba4b518c8070daf5cd071ca/Task%201%3A%20Iris%20Dataset%20Classification/Density_plot_2.png)
+#### 3. SepalLengthCm
+![Density Plot of SepalLengthCm](https://github.com/ADVAIT135/OIBSIP/blob/68d7e3b42fe1ed1d2ba4b518c8070daf5cd071ca/Task%201%3A%20Iris%20Dataset%20Classification/Density_plot_3.png)
+#### 4. SepalWidthCm
+![Density Plot of SepalWidthCm](https://github.com/ADVAIT135/OIBSIP/blob/68d7e3b42fe1ed1d2ba4b518c8070daf5cd071ca/Task%201%3A%20Iris%20Dataset%20Classification/Density_plot_4.png)
+
+### Histogram Distribution Plots:-
+#### 1. PetalLengthCm
+![Histogram depicting distribution of PetalLengthCm](https://github.com/ADVAIT135/OIBSIP/blob/68d7e3b42fe1ed1d2ba4b518c8070daf5cd071ca/Task%201%3A%20Iris%20Dataset%20Classification/histogram_distribution_1.png)
+#### 2. PetalWidthCm
+![Histogram depicting distribution of PetalWidthCm](https://github.com/ADVAIT135/OIBSIP/blob/68d7e3b42fe1ed1d2ba4b518c8070daf5cd071ca/Task%201%3A%20Iris%20Dataset%20Classification/histogram_distribution_2.png)
+#### 3. SepalLengthCm
+![Histogram depicting distribution of SepalLengthCm](https://github.com/ADVAIT135/OIBSIP/blob/68d7e3b42fe1ed1d2ba4b518c8070daf5cd071ca/Task%201%3A%20Iris%20Dataset%20Classification/histogram_distribution_3.png)
+#### 4. SepalWidthCm
+![Histogram depicting distribution of SepalWidthCm](https://github.com/ADVAIT135/OIBSIP/blob/68d7e3b42fe1ed1d2ba4b518c8070daf5cd071ca/Task%201%3A%20Iris%20Dataset%20Classification/histogram_distribution_4.png)
+
+
+
+### Violin Plot of Species vs Features
+![Violin plot of Species vs Features of iris_dataset](https://github.com/ADVAIT135/OIBSIP/blob/68d7e3b42fe1ed1d2ba4b518c8070daf5cd071ca/Task%201%3A%20Iris%20Dataset%20Classification/Violin_plot.png)
+
+### Correlation of Features
 ![Correlation of Features](https://github.com/ADVAIT135/OIBSIP/blob/7d164876d1d693e4c7d8ddd15576d831776a57eb/Task%201%3A%20Iris%20Dataset%20Classification/feature_corr.png)
+
+### Pairplot of features
 ![Seaborn pairplot](https://github.com/ADVAIT135/OIBSIP/blob/2fc2f48e338df06c0a6f1e48de653583b40e6923/Task%201%3A%20Iris%20Dataset%20Classification/seaborn_pairplot.png)
+
+
+
+
 
 ### Decision Tree Model
 ### Accuracy_score of Decision Tree Model -> 0.98
