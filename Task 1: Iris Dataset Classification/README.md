@@ -55,8 +55,8 @@
 
 
 ### Decision Tree Model
-### Accuracy_score of Decision Tree Model -> 0.98
-![Decision Tree Plot](https://github.com/ADVAIT135/OIBSIP/blob/2fc2f48e338df06c0a6f1e48de653583b40e6923/Task%201%3A%20Iris%20Dataset%20Classification/Decision_tree_plot.png)
+### Accuracy_score of Decision Tree Model -> 0.96
+![Decision Tree Plot](https://github.com/ADVAIT135/OIBSIP/blob/6ced4a85898a37beb4c2c4aaece18eb7a367a044/Task%201%3A%20Iris%20Dataset%20Classification/Decision_tree_plot.png)
 ![Predicted Species Using Decision Tree Model](https://github.com/ADVAIT135/OIBSIP/blob/2fc2f48e338df06c0a6f1e48de653583b40e6923/Task%201%3A%20Iris%20Dataset%20Classification/Predicted%20Species%20using%20Decision%20Tree%20Model.png)
 
 
@@ -66,7 +66,7 @@
 
 
 ### Linear Sub-Vector Machine Model
-### Accuracy_score of Linear SVM Model -> 0.98
+### Accuracy_score of Linear SVM Model -> 0.96
 ![Predicted Species using Linear Sub-Vector Machine Model](https://github.com/ADVAIT135/OIBSIP/blob/ab4ec6e6fdfe50a3e3efa5d0af691f77be830969/Task%201%3A%20Iris%20Dataset%20Classification/Predicted%20Species%20using%20Linear%20Sub-Vectore%20Machine%20Model.png)
 
 
