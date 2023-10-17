@@ -4,7 +4,8 @@
 ![Features and Target](https://github.com/ADVAIT135/OIBSIP/blob/3a80475b07a5813ba680dde7f7316bf3f5879c77/Task%201%3A%20Iris%20Dataset%20Classification/demo.png)
 
 
-### Analysis: Each Species has a count of 50 each i.e. iris dataset consists 50 rows of Iris-setosa, 50 rows of Iris-Versicolor and 50 rows of Iris-Virginica
+### Analysis:-
+### Each Species has a count of 50 each i.e. iris dataset consists 50 rows of Iris-setosa, 50 rows of Iris-Versicolor and 50 rows of Iris-Virginica
 ![Pieplot of Features](https://github.com/ADVAIT135/OIBSIP/blob/68d7e3b42fe1ed1d2ba4b518c8070daf5cd071ca/Task%201%3A%20Iris%20Dataset%20Classification/piechart.png)
 
 ### Box Plots for determining Outliers:-
