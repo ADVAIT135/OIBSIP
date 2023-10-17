@@ -1,4 +1,5 @@
 ## Iris Dataset Classification
+![Intro](https://github.com/ADVAIT135/OIBSIP/blob/c5690543440d231572b63de378302b166c859ccf/Task%201%3A%20Iris%20Dataset%20Classification/Oasis_data_science_Intern_Task_1_Iris_data_classification.png)
 ### Features : PetalLengthCm, PetalWidthCm, SepalLengthCm and SepalWidthCm
 ### Target : Species -> Iris-setosa, Iris-versicolor, Iris-virginica
 ![Features and Target](https://github.com/ADVAIT135/OIBSIP/blob/3a80475b07a5813ba680dde7f7316bf3f5879c77/Task%201%3A%20Iris%20Dataset%20Classification/demo.png)
