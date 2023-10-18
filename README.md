@@ -1,5 +1,5 @@
 # OIBSIP
-![Logo](https://github.com/ADVAIT135/OIBSIP/blob/95b9f411016564f65087053fafaf9bdc7d6972fa/Oasis%20Infobyte.PNG)
+<img src="https://github.com/ADVAIT135/OIBSIP/blob/95b9f411016564f65087053fafaf9bdc7d6972fa/Oasis%20Infobyte.PNG" height="150 px"></img>
 <p>This Repository Consists of all the tasks that were assigned to me during internship at Oasis Infobyte as a Data Science Intern from October 15th 2023 to November 15th 2023</p>
 
 ## Task 1: Develop a Machine Learning Model to learn from measurements(SepalLenghtCm, SepalWidthCm, PetalLengthCm and PetalWidthCm) and classify them into one of three species(Iris-setosa, Iris-versicolor or Iris-Virginica)
