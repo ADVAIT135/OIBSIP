@@ -6,7 +6,7 @@ Analysis: Each Species has a count of 50 each i.e. iris dataset consists 50 rows
 Prime Findings : Flowers having Petal Lenght < 2.45 cm; belong to Setosa Species
                  Flowers having Petal Length < 5 cm and Petal Length > 3 cm; most of them belong to Versicolor Species
                  Flowers having Petal Length > 5 cm; belong to Virginica Species
-Performance by each Model : Accuracy_score of Decision Tree Model -> 0.98
+Performance by each Model : Accuracy_score of Decision Tree Model -> 0.96
                             Accuracy_score of Linear Regression Model -> 0.98
-                            Accuracy_score of Linear SVC Model -> 0.98
-                            Accuracy_score of Random Forest Classifier Model -> 0.93
+                            Accuracy_score of Linear SVC Model -> 0.96
+                            Accuracy_score of Random Forest Classifier Model -> 0.98
