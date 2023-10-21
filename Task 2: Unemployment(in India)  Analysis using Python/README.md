@@ -21,6 +21,57 @@
 ### Scatter plot displaying Estimated Unemployment Rate (%), Estimated Labor Participation(%), Estimated Employed across various areas(urban and rural) of India.
 ![img_4](https://github.com/ADVAIT135/OIBSIP/blob/e8dd27967622c7046642634f5afc34674b16b518/Task%202%3A%20Unemployment(in%20India)%20%20Analysis%20using%20Python/scatterplot%20unemp%20and%20area.png)
 
+## Prime Findings 
+## 1.  Feature vs Region(State)
+### -> Estimated Unemployment Rate (%) vs Region 
+![img_a](https://github.com/ADVAIT135/OIBSIP/blob/f405f72d23eccaf62610d008a6a479d130359bfb/Task%202%3A%20Unemployment(in%20India)%20%20Analysis%20using%20Python/Estimated%20Unemployment%20Rate%20(%25)%20vs%20Region.png)
+
+### -> Estimated Employed Count vs Region
+![img_b](https://github.com/ADVAIT135/OIBSIP/blob/f405f72d23eccaf62610d008a6a479d130359bfb/Task%202%3A%20Unemployment(in%20India)%20%20Analysis%20using%20Python/Estimated%20Employed%20Count%20vs%20Region.png)
+
+### -> Estimated Labour Participation Rate (%) vs Region
+![img_c](https://github.com/ADVAIT135/OIBSIP/blob/f405f72d23eccaf62610d008a6a479d130359bfb/Task%202%3A%20Unemployment(in%20India)%20%20Analysis%20using%20Python/Estimated%20Labour%20Participation%20Rate%20(%25)%20vs%20Region.png)
+
+### -> .csv file for feature vs region
+![.csv](https://github.com/ADVAIT135/OIBSIP/blob/f405f72d23eccaf62610d008a6a479d130359bfb/Task%202%3A%20Unemployment(in%20India)%20%20Analysis%20using%20Python/feature_vs_region.csv)
+
+## 2. Feature vs Area(Urban and Rural)
+### -> Estimated Unemployment Rate (%) vs Area
+![img_d](https://github.com/ADVAIT135/OIBSIP/blob/167305b956e615e1334cb9e24255fc03e0673063/Task%202%3A%20Unemployment(in%20India)%20%20Analysis%20using%20Python/Estimated%20Unemployment%20Rate%20(%25)%20vs%20Area.png)
+
+### -> Estimated Employed Count vs Area
+![img_e](https://github.com/ADVAIT135/OIBSIP/blob/167305b956e615e1334cb9e24255fc03e0673063/Task%202%3A%20Unemployment(in%20India)%20%20Analysis%20using%20Python/Estimated%20Employed%20Count%20vs%20Area.png)
+
+### -> Estimated Labour Participation Rate (%) vs Area
+![img_f](https://github.com/ADVAIT135/OIBSIP/blob/167305b956e615e1334cb9e24255fc03e0673063/Task%202%3A%20Unemployment(in%20India)%20%20Analysis%20using%20Python/Estimated%20Labour%20Participation%20Rate%20(%25)%20vs%20Area.png)
+
+### -> .csv file for feature vs area
+![.csv](https://github.com/ADVAIT135/OIBSIP/blob/167305b956e615e1334cb9e24255fc03e0673063/Task%202%3A%20Unemployment(in%20India)%20%20Analysis%20using%20Python/feature_vs_area.csv)
+
+
+## 3. Feature vs Year and Month
+### -> Estimated Unemployment Rate (%) vs Year and Month
+[img_e](https://github.com/ADVAIT135/OIBSIP/blob/600d657a25b394496a196d943fe0edfc41fe3aa4/Task%202%3A%20Unemployment(in%20India)%20%20Analysis%20using%20Python/Estimated%20Unemployment%20Rate%20(%25)%20vs%20Year%20and%20Month.png)
+### -> Estimated Employed Count vs Year and Month
+[img_f](https://github.com/ADVAIT135/OIBSIP/blob/600d657a25b394496a196d943fe0edfc41fe3aa4/Task%202%3A%20Unemployment(in%20India)%20%20Analysis%20using%20Python/Estimated%20Employed%20Count%20vs%20Year%20and%20Month.png)
+### -> Estimated Labour Participation Rate (%) vs Year and Month
+[img_g](https://github.com/ADVAIT135/OIBSIP/blob/600d657a25b394496a196d943fe0edfc41fe3aa4/Task%202%3A%20Unemployment(in%20India)%20%20Analysis%20using%20Python/Estimated%20Labour%20Participation%20Rate%20(%25)%20vs%20Year%20and%20Month.png)
+### -> .csv file for feature vs Year and Month
+[.csv](https://github.com/ADVAIT135/OIBSIP/blob/600d657a25b394496a196d943fe0edfc41fe3aa4/Task%202%3A%20Unemployment(in%20India)%20%20Analysis%20using%20Python/feature_vs_year_month.csv)
+
+## 4. Feature vs Year
+### -> Estimated Unemployment Rate (%) vs Year
+[img_h](https://github.com/ADVAIT135/OIBSIP/blob/55ad8811e2bb34e04b73e26264a94754ae82a82b/Task%202%3A%20Unemployment(in%20India)%20%20Analysis%20using%20Python/Estimated%20Unemployment%20Rate%20(%25)%20vs%20Year.png)
+### -> Estimated Employed Count vs Year
+[img_i](https://github.com/ADVAIT135/OIBSIP/blob/55ad8811e2bb34e04b73e26264a94754ae82a82b/Task%202%3A%20Unemployment(in%20India)%20%20Analysis%20using%20Python/Estimated%20Employed%20Count%20vs%20Year.png)
+### -> Estimated Labour Participation Rate (%) vs Year
+[img_j](https://github.com/ADVAIT135/OIBSIP/blob/55ad8811e2bb34e04b73e26264a94754ae82a82b/Task%202%3A%20Unemployment(in%20India)%20%20Analysis%20using%20Python/Estimated%20Labour%20Participation%20Rate%20(%25)%20vs%20Year.png)
+### -> .csv file for feature vs Year
+[.csv](https://github.com/ADVAIT135/OIBSIP/blob/55ad8811e2bb34e04b73e26264a94754ae82a82b/Task%202%3A%20Unemployment(in%20India)%20%20Analysis%20using%20Python/feature_vs_year.csv)
+
+
+
+
 ## Exploratory Data Analysis
 ### [A] Estimated Unemployment Rate (%) :-
 ### Estimated Unemployment Rate (%) vs State(Region)
