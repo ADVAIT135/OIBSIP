@@ -7,6 +7,12 @@
 ## -> Impacted states due to lockdown
 
 ![demo](https://github.com/ADVAIT135/OIBSIP/blob/e8dd27967622c7046642634f5afc34674b16b518/Task%202%3A%20Unemployment(in%20India)%20%20Analysis%20using%20Python/demo.png)
+### <p style="color: darkviolet;">Estimated Unemployment Rate (%): This represents the actual unemployment rate you want to calculate. It's the percentage of the labor force that is currently unemployed and seeking employment. </p>
+
+
+### <p style="color: darkviolet;">Estimated Employed: This is the number of people who are currently employed.</p>
+
+### <p style="color : darkviolet;">Estimated Labour Participation Rate (%): This represents the percentage of the working-age population that is either employed or actively seeking employment. It includes both employed and unemployed individuals.</p>
 
 ## Findings and Analysis
 ### Correlation plot displaying correlation of numerical features of the dataset.
@@ -85,6 +91,15 @@
 
 ### Pieplot displaying Estimated Unemployment Rate(%) across various regions(states) of India.
 ![img_8](https://github.com/ADVAIT135/OIBSIP/blob/e8dd27967622c7046642634f5afc34674b16b518/Task%202%3A%20Unemployment(in%20India)%20%20Analysis%20using%20Python/pyplot%20unemp%20by%20region.png)
+#### <p style="color: red;">From the pieplot, avg. unemployment rate(%) bar plot and box plots we can infer the following:-</p>
+#### <p style="color: red;">The top 5 regions(states) in India having the highest unemployement rate (%) during COVID-19 lockdown are:</p>
+#### <p style="color: red;">1. Tripura = 28.35%</p>
+#### <p style="color: red;">2. Haryana = 26.28%</p>
+#### <p style="color: red;">3. Jharkhand = 20.59%</p>
+#### <p style="color: red;">4. Bihar = 18.92%</p>
+#### <p style="color: red;">5. Himachal Pradesh = 18.54%</p>
+
+
 
 ### [B] Estimated Employed :-
 ### Estimated Employed Count vs State(Region)
@@ -98,6 +113,15 @@
 
 ### Pieplot displaying Estimated Employed Count across various regions(states) of India.
 ![img_12](https://github.com/ADVAIT135/OIBSIP/blob/ba80d08a55e85435ad775420b2559adc48d1835e/Task%202%3A%20Unemployment(in%20India)%20%20Analysis%20using%20Python/Estimated%20Employed%20vs%20region%20pie.png)
+#### <p style="color: red;">From the pieplot, avg. employed count bar plot and box plots we can infer the following:-</p>
+#### <p style="color: red;">The top 5 regions(states) in India having the highest employed count during COVID-19 lockdown are:</p>
+#### <p style="color: red;">1. Uttar Pradesh = 28.09 Million </p>
+#### <p style="color: red;">2. Maharashtra = 19.99 Million</p>
+#### <p style="color: red;">3. West Bengal = 17.19 Million </p>
+#### <p style="color: red;">4. Bihar = 12.37 Million</p>
+#### <p style="color: red;">5. Tamil Nadu = 12.27 Million</p>
+
+
 
 ## [C] Estimated Labour Participation Rate (%) :-
 ### Estimated Labour Participation Rate (%) vs Region
@@ -111,6 +135,13 @@
 
 ### Pieplot displaying Estimated Labour Participation Rate (%) across various regions(states) of India.
 ![img_16](https://github.com/ADVAIT135/OIBSIP/blob/f948a8c1456213c6217bff528ea27c5003c121f9/Task%202%3A%20Unemployment(in%20India)%20%20Analysis%20using%20Python/Estimated%20Labour%20Participation%20Rate%20(%25)%20by%20Region(State).png)
+#### <p style="color: red;">From the pieplot, avg. labour participation rate(%) bar plot and box plots we can infer the following:-</p>
+#### <p style="color: red;">The top 5 regions(states) in India having the highest labour participation rate (%) during COVID-19 lockdown are:</p>
+#### <p style="color: red;">1. Tripura = 61.82%</p>
+#### <p style="color: red;">2. Meghalaya = 57.08%</p>
+#### <p style="color: red;">3. Telangana = 53.00%</p>
+#### <p style="color: red;">4. Gujarat = 46.10%</p>
+#### <p style="color: red;">5. Sikkim = 46.07%</p>
 
 ### .csv file of cleaned and filtered dataset:- 
 ![Unemployment in India During Covid-19 cleaned and filtered dataset(.csv)](https://github.com/ADVAIT135/OIBSIP/blob/e8dd27967622c7046642634f5afc34674b16b518/Task%202%3A%20Unemployment(in%20India)%20%20Analysis%20using%20Python/unmeployment%20in%20India%20non%20null.csv)
