@@ -33,7 +33,7 @@
 ![img_a](https://github.com/ADVAIT135/OIBSIP/blob/f405f72d23eccaf62610d008a6a479d130359bfb/Task%202%3A%20Unemployment(in%20India)%20%20Analysis%20using%20Python/Estimated%20Unemployment%20Rate%20(%25)%20vs%20Region.png)
 
 ### -> Estimated Employed Count vs Region
-![img_b](https://github.com/ADVAIT135/OIBSIP/blob/f405f72d23eccaf62610d008a6a479d130359bfb/Task%202%3A%20Unemployment(in%20India)%20%20Analysis%20using%20Python/Estimated%20Employed%20Count%20vs%20Region.png)
+![img_b](https://github.com/ADVAIT135/OIBSIP/blob/5e242b063d4534ff641934713bfb94ef419e11d9/Task%202%3A%20Unemployment(in%20India)%20%20Analysis%20using%20Python/Estimated%20Employed%20Count%20vs%20Region.png)
 
 ### -> Estimated Labour Participation Rate (%) vs Region
 ![img_c](https://github.com/ADVAIT135/OIBSIP/blob/f405f72d23eccaf62610d008a6a479d130359bfb/Task%202%3A%20Unemployment(in%20India)%20%20Analysis%20using%20Python/Estimated%20Labour%20Participation%20Rate%20(%25)%20vs%20Region.png)
