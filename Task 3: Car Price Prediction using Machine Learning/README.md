@@ -2,7 +2,7 @@
 ![Intro](https://github.com/ADVAIT135/OIBSIP/blob/48da506aa34881f96d98eb6c5ad8fa67b0f48654/Task%203%3A%20Car%20Price%20Prediction%20using%20Machine%20Learning/Oasis_data_science_Intern_Task_3_Car_Price_Prediction_using_Machine_Learning.png)
 
 ## Features -> Year, Transmission Type, Fuel Type, Present Price, Ownership Type, Driven Kilometers, Selling Type
-## Targets -> Selling Price
+## Target -> Selling Price
 ![demo](https://github.com/ADVAIT135/OIBSIP/blob/48da506aa34881f96d98eb6c5ad8fa67b0f48654/Task%203%3A%20Car%20Price%20Prediction%20using%20Machine%20Learning/Car%20Price%20Predcitions.png)
 
 
