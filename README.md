@@ -10,3 +10,8 @@
 ## Task 2: Unemployment(in India) Analysis using Python
 
 [Python Notebook Link of Task 2](https://nbviewer.org/github/ADVAIT135/OIBSIP/blob/814ef696632a88dba31489dd41fddc627d1a09b6/Task%202%3A%20Unemployment%28in%20India%29%20%20Analysis%20using%20Python/Oasis%20Infobyte%20Data%20Science%20Internship%20Project%20Task%20-%20%202.ipynb)
+
+
+## Task 3: Car Price Prediction using Machine Learning
+
+[Python Notebook Link of Task 3](https://nbviewer.org/github/ADVAIT135/OIBSIP/blob/c56cab66bd289ba31c05cee81632308b0ff36177/Task%203%3A%20Car%20Price%20Prediction%20using%20Machine%20Learning/Oasis%20Infobyte%20Data%20Science%20Internship%20Project%20Task%20-%203.ipynb)
