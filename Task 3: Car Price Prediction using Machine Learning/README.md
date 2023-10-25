@@ -84,5 +84,27 @@
 
 ### G. XGBoost Regression Model:
 ### R^2 Score : 0.9031
-![img_20]
+![img_20](https://github.com/ADVAIT135/OIBSIP/blob/9a6870b4bf6f43e3f84dd22a4643e39f0f8a9c7e/Task%203%3A%20Car%20Price%20Prediction%20using%20Machine%20Learning/pred%20xgboost%20regression.png)
+
+
+## 6. Selecting Final Model as XGBoost Regression Model and the finding the important fetaures that influence the selling price of the car
+### XGBoost Regression Model
+### R^2 Score : 0.9031
+![img_21](https://github.com/ADVAIT135/OIBSIP/blob/336892fc47eaf0afe77dcbe7b6c71d6c58296aba/Task%203%3A%20Car%20Price%20Prediction%20using%20Machine%20Learning/pred%20final.png)
+
+### Important Features
+![img_22](https://github.com/ADVAIT135/OIBSIP/blob/336892fc47eaf0afe77dcbe7b6c71d6c58296aba/Task%203%3A%20Car%20Price%20Prediction%20using%20Machine%20Learning/pred%20imp%20features%20using%20final%20model.png)
+
+
+## 7. Trivariate Analysis of Selling_Price, Present_price vs Year
+![img_23](https://github.com/ADVAIT135/OIBSIP/blob/336892fc47eaf0afe77dcbe7b6c71d6c58296aba/Task%203%3A%20Car%20Price%20Prediction%20using%20Machine%20Learning/plot%20of%20selling%20price%2C%20present%20price%20vs%20year.png)
+
+## 8. Bivariate Analysis of Selling_price vs Year
+![img_24](https://github.com/ADVAIT135/OIBSIP/blob/336892fc47eaf0afe77dcbe7b6c71d6c58296aba/Task%203%3A%20Car%20Price%20Prediction%20using%20Machine%20Learning/plot%20of%20selling%20price%20vs%20year.png)
+
+## 9. Bivariate Analysis of Present Price vs Year
+![img_25](https://github.com/ADVAIT135/OIBSIP/blob/336892fc47eaf0afe77dcbe7b6c71d6c58296aba/Task%203%3A%20Car%20Price%20Prediction%20using%20Machine%20Learning/plot%20of%20present%20price%20vs%20year.png)
+
+### .h5 file of the final model (XGBoost Regression Model)
+[final_model.h5](https://github.com/ADVAIT135/OIBSIP/blob/336892fc47eaf0afe77dcbe7b6c71d6c58296aba/Task%203%3A%20Car%20Price%20Prediction%20using%20Machine%20Learning/final_car_prediction_model.h5)
 
