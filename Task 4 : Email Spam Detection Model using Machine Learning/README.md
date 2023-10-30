@@ -9,7 +9,7 @@
 [.csv of the cleaned dataset](https://github.com/ADVAIT135/OIBSIP/blob/e8fd19fc0cb10254c75cdc772077180c09871241/Task%204%20%3A%20Email%20Spam%20Detection%20Model%20using%20Machine%20Learning/spam_cleaned.csv)
 
 ## Categorical Count of each Message
-## Spam and Non-spam vs count of message
+## Ham(Non-Spam) and Spam vs count of message
 ![img_a](https://github.com/ADVAIT135/OIBSIP/blob/e8fd19fc0cb10254c75cdc772077180c09871241/Task%204%20%3A%20Email%20Spam%20Detection%20Model%20using%20Machine%20Learning/class%20vs%20count.png)
 
 ## Highest common text message that occurred in the dataset
