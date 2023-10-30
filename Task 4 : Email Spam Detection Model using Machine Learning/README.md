@@ -55,3 +55,4 @@
 
 
 ## Saving the best performing Model i.e. Multinomial Naive Bayes Classifier having accuracy_score =  0.9856459330143541 and Average Precision score = 0.91
+[.joblib file of the trained and tested model](https://github.com/ADVAIT135/OIBSIP/blob/4260bca1acf6e16a68c4b4ece2512fc9d39d7b2a/Task%204%20%3A%20Email%20Spam%20Detection%20Model%20using%20Machine%20Learning/multinomial_nb_model.joblib)
