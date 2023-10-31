@@ -19,3 +19,7 @@
 
 ## Task 4: Email Spam Detection Using Machine Learning
 [Python Notebook Link of Task 4](https://nbviewer.org/github/ADVAIT135/OIBSIP/blob/main/Task%204%20%3A%20Email%20Spam%20Detection%20Model%20using%20Machine%20Learning/Oasis%20Infobyte%20Data%20Science%20Intern%20Task%20-%204%20Email%20Spam%20Detection%20using%20Machine%20Learning.ipynb)
+
+
+## Task 5: Sales Prediction Using Python
+[Python Notebook Link of Task 5](https://nbviewer.org/github/ADVAIT135/OIBSIP/blob/541130007f2e75ee887eebb5d8a03e0d44c060f6/Task%205%3A%20Sales%20Prediction%20using%20Python/Oasis%20Infobyte%20Data%20Science%20Intern%20Task%205%20-%20Sales%20Prediction%20using%20Python.ipynb)
