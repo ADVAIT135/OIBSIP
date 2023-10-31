@@ -1,0 +1,12 @@
+Features : TV, Radio, Newspaper
+Target : Sales
+Regression Models Used and their R^2 Scores: -
+'Linear Regression Model': 0.8859649783578775,
+'Random Forest Regression Model': 0.9692326073896234,
+'Ridge Regression Model': 0.885965692374097,
+'Lasso Regression Model': 0.8873432660828356,
+'ElasticNet Regression Model': 0.8867449612862289,
+'Gradient Boosting Regression Model': 0.9759214404300837,
+'XGBoost Regression Model': 0.9736706437287413
+
+R^2 is score of how well our trained model fitted our dataset
