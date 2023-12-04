@@ -33,7 +33,7 @@
 ## Task 5: Sales Prediction Using Python
 [Python Notebook Link of Task 5](https://nbviewer.org/github/ADVAIT135/OIBSIP/blob/541130007f2e75ee887eebb5d8a03e0d44c060f6/Task%205%3A%20Sales%20Prediction%20using%20Python/Oasis%20Infobyte%20Data%20Science%20Intern%20Task%205%20-%20Sales%20Prediction%20using%20Python.ipynb)
 <br>
-[Explaintaion of Task - 5](https://www.linkedin.com/posts/advait-chavan-69928b129_datascience-machinelearning-internship-activity-7125138731170185216-whp4?utm_source=share&utm_medium=member_desktop)
+[Explaination of Task - 5](https://www.linkedin.com/posts/advait-chavan-69928b129_datascience-machinelearning-internship-activity-7125138731170185216-whp4?utm_source=share&utm_medium=member_desktop)
 
 
 # [Internship Completion Certificate](https://github.com/ADVAIT135/OIBSIP/blob/62d4502b76f571c75ff4db91ff1cf6bc2b02f4dd/OIBSIP%20Data%20Science%20Internship%20Completion%20Certificate%20-%20ADVAIT%20GURUNATH%20CHAVAN%20.pdf)
